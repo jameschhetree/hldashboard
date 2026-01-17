@@ -107,7 +107,7 @@ export default function Home() {
             {/* Quote of the Day */}
             <div className="text-right max-w-[200px] sm:max-w-[250px]">
               <p className="text-[10px] sm:text-xs text-dark-text-muted italic leading-tight">
-                "Music is the universal language of mankind."
+                &ldquo;Music is the universal language of mankind.&rdquo;
               </p>
             </div>
           </div>
